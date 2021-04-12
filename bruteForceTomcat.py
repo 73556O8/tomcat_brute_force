@@ -9,7 +9,7 @@ from time import sleep
 
 def banner():
     print("="*60, 
-    "\nCreated by 73556O8\nTested on: ...")
+    "\nCreated by ...\nTested on: ...")
     print("="*60, "\n")
 
 banner()
